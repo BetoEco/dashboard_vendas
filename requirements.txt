@@ -1,5 +1,6 @@
-request==2.24.0
+request==2.25.3
 pandas==2.3.3
 plotly==6.3.0
+
 
 
