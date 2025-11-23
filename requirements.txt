@@ -1,6 +1,7 @@
 pandas==2.3.3
-plotly==6.3.0
+plotly
 request
+
 
 
 
